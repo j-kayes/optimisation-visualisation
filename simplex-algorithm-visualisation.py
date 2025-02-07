@@ -9,7 +9,7 @@ from mpl_toolkits.mplot3d import Axes3D  # required for 3D plotting
 # Define the objective function:
 #   maximize   z = c1*x + c2*y
 # Change these coefficients as desired.
-c1, c2 = 3, 2
+c1, c2 = 55, 1
 objective_coeffs = (c1, c2)
 
 # Define constraints in the form: a*x + b*y <= c.
